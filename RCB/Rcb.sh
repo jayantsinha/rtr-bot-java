@@ -1,3 +1,3 @@
 #!/bin/sh
-java -cp ../lib/* MyFirstBot.java 
+java -cp ../lib/* Rcb.java 
 
