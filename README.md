@@ -1,4 +1,4 @@
-# RTR Bot - Java
+# RTR Bot - Java.
 
 Welcome to the Robocode challenge! This repository is for each team to create their Robocode bot in Java.
 
